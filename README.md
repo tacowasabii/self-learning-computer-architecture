@@ -1,8 +1,19 @@
 ## 혼자 공부하는 컴퓨터 구조
 
-### 스터디 기록 방법
+### 목차
 
-1. 본인 로컬로 git clone을 합니다.
-2. main > [github_id] 으로 branch를 생성합니다.
-3. [github_id] 이름의 자신의 폴더를 만들고 해당 주차의 스터디 내용을 week[1~8] 폴더에 md로 작성한 뒤 commit 합니다.
-4. main 으로 PR를 올립니다.
+[CH 1. 컴퓨터 구조 시작하기](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week1/CH%201.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+
+[CH 2. 데이터](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week2/CH%202.%20%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
+
+[CH 3. 명령어](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week3/CH%203.%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+
+[CH 4. CPU의 작동 원리](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week4/CH%204.%20CPU%EC%9D%98%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
+
+[CH 5. CPU 성능 향상 기법](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week5/CH%205.%20CPU%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%20%EA%B8%B0%EB%B2%95.md)
+
+[CH 6. 메모리와 캐시 메모리](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week6/CH%206.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%99%80%20%EC%BA%90%EC%8B%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
+
+[CH 7. 보조기억장치](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week7/CH%207.%20%EB%B3%B4%EC%A1%B0%EA%B8%B0%EC%96%B5%EC%9E%A5%EC%B9%98.md)
+
+[CH 8. 입출력장치](https://github.com/tacowasabii/self-learning-computer-architecture/blob/tacowasabii/week8/CH%208.%20%EC%9E%85%EC%B6%9C%EB%A0%A5%EC%9E%A5%EC%B9%98.md)
