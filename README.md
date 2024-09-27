@@ -21,3 +21,5 @@
 ### 운영체제
 
 [CH 9. 운영체제 시작하기](https://github.com/tacowasabii/self-learning-CA-OS/blob/tacowasabii/CH%209/CH%209.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+
+[CH 10. 프로세스와 스레드]
