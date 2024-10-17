@@ -28,4 +28,6 @@
 
 [CH 12. 프로세스 동기화](https://github.com/tacowasabii/self-learning-CA-OS/blob/tacowasabii/CH%2012/CH%2012.%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EB%8F%99%EA%B8%B0%ED%99%94.md)
 
-[Ch 13. 교착 상태](https://github.com/tacowasabii/self-learning-CA-OS/blob/tacowasabii/CH%2013/CH%2013.%20%EA%B5%90%EC%B0%A9%20%EC%83%81%ED%83%9C.md)
+[CH 13. 교착 상태](https://github.com/tacowasabii/self-learning-CA-OS/blob/tacowasabii/CH%2013/CH%2013.%20%EA%B5%90%EC%B0%A9%20%EC%83%81%ED%83%9C.md)
+
+[CH 14. 가상 메모리](https://github.com/tacowasabii/self-learning-CA-OS/blob/tacowasabii/CH%2014/CH%2014.%20%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
